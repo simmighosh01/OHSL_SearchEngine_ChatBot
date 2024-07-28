@@ -1,1 +1,1 @@
-# OHSL_SearchEngine_ChatBot
+Developed a sophisticated chatbot using LLaMA models and LangChain for precise, context-aware responses. Implemented Python web scraping with BeautifulSoup4 to efficiently extract and organize OHSL website data. Created a seamless Gradio interface for real-time interaction and advanced semantic searches with 'sentence-transformers/all-MiniLM-L6-v2'.
